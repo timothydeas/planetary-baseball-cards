@@ -26,10 +26,10 @@ h1 {
   }
 
 .planets {
-    width: 15%;
-    height: 50px;
+    /* width: 15%;
+    height: 50px; */
     flex: auto;
-    margin: 0.5rem;
-    line-height: 200px;
+    /* margin: 0.5rem;
+    line-height: 200px; */
     border-radius: 4px;
   }
