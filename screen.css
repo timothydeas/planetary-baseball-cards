@@ -8,28 +8,39 @@ h1 {
     color:#958383;
     font-weight: bold;
     font-size: 64px;
+    margin: auto;
+    width: 90%;
+}
+
+.card-container {
+    padding-top: 100px;
+}
+
+.cards {
+    margin: auto;
+    width: 90%;
 }
 
 #imgSun {
     float:left;
-    margin-right: 20px;
 }
 
-.planet-list {
+.planet-list-1 {
     display: flex;
-    /* flex-direction: row; */
-    align-items: center;
     list-style: none;
-    margin: 0;
-    padding: 0;
-    border-radius: 8px;
+    padding-inline-start: 12px;
+  }
+
+  .planet-list-2 {
+    display: flex;
+    margin-top: 25px;
+    list-style: none;
+    padding-inline-start: 12px;
   }
 
 .planets {
-    /* width: 15%;
-    height: 50px; */
     flex: auto;
-    /* margin: 0.5rem;
-    line-height: 200px; */
-    border-radius: 4px;
-  }
+    padding-left: 12px;
+    padding-right: 12px;
+    
+}
