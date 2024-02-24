@@ -1,3 +1,5 @@
-# timplate (aka template)
+# Planetary Baseball Cards
 
-basic html, css, javascript starter repo
+This is a fun showcase of a figma design to web design using html & css. 
+
+Checkout the netlify deployed site here: https://stellular-blini-fbcf04.netlify.app/ 
